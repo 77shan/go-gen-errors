@@ -7,7 +7,7 @@ import (
 
 	"google.golang.org/grpc/metadata"
 
-	"github.com/77shan/go-gen-errors/kratos/v2/selector"
+	"github.com/go-kratos/kratos/v2/selector"
 )
 
 func TestTrailer(t *testing.T) {
